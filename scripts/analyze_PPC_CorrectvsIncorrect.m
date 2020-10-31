@@ -53,8 +53,8 @@ clear all
 
 %% settings
 
-datapath = 'Z:\Marije\Data_STREAM_iEEG\PPCdata_ForPublication\';
-datapathRT = 'Z:\Marije\Data_RT_Logs\Logs_ForPublication\';
+datapath = 'YourPathGoesHere';
+datapathRT = 'YourPathGoesHere';
 
 taskphases = {'encoding', 'retrieval','catch'};
 nevents = [3,2,2];
@@ -64,7 +64,7 @@ acc = [1,0];
 
 nrep = 100;
 
-alpha = 0.05; %0.10 % for cluster detection threshold
+alpha = 0.05; % for cluster detection threshold
 alphac = 0.05; % for permutation test
 
 % colors for plotting

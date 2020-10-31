@@ -53,8 +53,8 @@ m.j.terwalm@bham.ac.uk
 % choose from: 'encoding', 'ret&catch', 'retrieval', 'catch', 'visual'
 taskphase = 'retrieval';
 
-datapath = 'Z:\Marije\Data_RT_logs\Logs_ForPublication\';
-storepath = 'Z:\Marije\Project_RT\';
+datapath = 'YourPathGoesHere';
+storepath = 'YourPathGoesHere';
 
 storename = '_test';
 

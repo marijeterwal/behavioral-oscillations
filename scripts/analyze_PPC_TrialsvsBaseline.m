@@ -54,8 +54,8 @@ clear all
 
 %% settings
 
-datapath = 'Z:\Marije\Data_STREAM_iEEG\PPCdata_ForPublication\';
-datapathRT = 'Z:\Marije\Data_RT_Logs\Logs_ForPublication\';
+datapath = 'YourPathGoesHere';
+datapathRT = 'YourPathGoesHere';
 
 taskphases = {'encoding', 'retrieval','catch'};
 nevents = [3,2,2];

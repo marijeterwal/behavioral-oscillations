@@ -1,10 +1,17 @@
 # behavioral-oscillations
 
-This repository contains the analysis code used for the project: 
-Theta rhythmicity governs the timing of behavioral and hippocampal responses in humans specifically during memory-dependent tasks (in preparation),
-Marije ter Wal, Juan Linde Domingo, Julia Lifanov, Frederic Roux, Luca Kolibius, Stephanie Gollwitzer, Johannes Lang, Hajo Hamer, David Rollings, Vijay Sawlani, Ramesh Chelvarajah, Bernhard Staresina, Simon Hanslmayr, Maria Wimber
+This repository contains the code used for the manuscript:
+Ter Wal, M., Linde Domingo, J., Lifanov, J., Roux, F., Kolibius, L., Gollwitzer, S., Lang, J., Hamer, H., Rollings, D., Sawlani, V., Chelvarajah, R., Staresina, B., Hanslmayr, S., Wimber, M. 
+Theta rhythmicity governs the timing of behavioural and hippocampal responses in humans specifically during memory- dependent tasks. 
+bioRxiv 2020.11.09.374264; DOI: https://doi.org/10.1101/2020.11.09.374264
 
-The preprint for this project will become available in the near future, as will the dataset, so check back here soon!
+The datasets are available here:
+Ter Wal, M., Linde Domingo, J., Lifanov, J., Roux, F., Kolibius, L., 
+Gollwitzer, S., Lang, J., Hamer, H., Rollings, D., Sawlani, V., Chelvarajah, 
+R., Staresina, B., Hanslmayr, S., Wimber, M., (2020), Data for: Theta 
+rhythmicity governs the timing of behavioural and hippocampal responses in 
+humans specifically during memory- dependent tasks. figshare. Collection. 
+DOI: https://doi.org/10.6084/m9.figshare.c.5192567
 
 The results were also presented as a poster at CNS 2020 (poster G183), titled 'Oscillatory patterns in behavioral and hippocampal responses during an associative memory task'. 
 For a walk-through, see https://youtu.be/28kpbGDHLuo

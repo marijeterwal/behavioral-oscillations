@@ -3,11 +3,12 @@
 This script contrasts the PPC data of correct or incorrect trials with a
 time-shuffled baseline and produces plots for Figures 5 and S4 from:
 
-Ter Wal, M., Linde Domingo, J., Lifanov, J., Roux, F., Kolibius, L., Gollwitzer, S.,
-Lang, J., Hamer, H., Rollings, D., Sawlani, V., Chelvarajah, R., Staresina, B.,
-Hanslmayr, S., Wimber, M., (in preparation), Theta rhythmicity governs the
-timing of behavioural and hippocampal responses in humans specifically during
-memory- dependent tasks.
+Ter Wal, M., Linde Domingo, J., Lifanov, J., Roux, F., Kolibius, L., 
+Gollwitzer, S., Lang, J., Hamer, H., Rollings, D., Sawlani, V., 
+Chelvarajah, R., Staresina, B., Hanslmayr, S., Wimber, M. 
+Theta rhythmicity governs the timing of behavioural and hippocampal 
+responses in humans specifically during memory- dependent tasks. 
+bioRxiv 2020.11.09.374264; DOI: https://doi.org/10.1101/2020.11.09.374264
 
 The data are available here:
 Ter Wal, M., Linde Domingo, J., Lifanov, J., Roux, F., Kolibius, L., 

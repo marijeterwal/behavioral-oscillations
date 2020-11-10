@@ -4,11 +4,12 @@ This script produces simulated behavioral data and assesses the performance
 of the O-score and Z-scoring procedures. 
 It produces plots for Figure S5 from:
 
-Ter Wal, M., Linde Domingo, J., Lifanov, J., Roux, F., Kolibius, L., Gollwitzer, S., 
-Lang, J., Hamer, H., Rollings, D., Sawlani, V., Chelvarajah, R., Staresina, B., 
-Hanslmayr, S., Wimber, M., (in preparation), Theta rhythmicity governs the 
-timing of behavioural and hippocampal responses in humans specifically during 
-memory- dependent tasks.
+Ter Wal, M., Linde Domingo, J., Lifanov, J., Roux, F., Kolibius, L., 
+Gollwitzer, S., Lang, J., Hamer, H., Rollings, D., Sawlani, V., 
+Chelvarajah, R., Staresina, B., Hanslmayr, S., Wimber, M. 
+Theta rhythmicity governs the timing of behavioural and hippocampal 
+responses in humans specifically during memory- dependent tasks. 
+bioRxiv 2020.11.09.374264; DOI: https://doi.org/10.1101/2020.11.09.374264
 
 For details on the O-score method, please refer to:
 Muresan, R.C., Jurjut, O.F., Moca, V. V., Singer, W., and Nikolic, D. (2008). 
